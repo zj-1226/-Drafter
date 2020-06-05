@@ -50,3 +50,8 @@ swift build
 Run the type navigator, by typing the following command, with path/s to your Swift code:
 
 .build/debug/SwiftDiagramGenerator . <swiftFileOrFolderPath1> <swiftFileOrFolderPath2> ...
+	
+五：
+https://github.com/palaniraja/swiftuml
+.build/debug/SwiftDiagramGenerator . <swiftFileOrFolderPath1> <swiftFileOrFolderPath2> ...J
+.build/debug/SwiftDiagramGenerator . <swiftFileOrFolderPath1> <swiftFileOrFolderPath2> ...
