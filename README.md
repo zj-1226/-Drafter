@@ -37,3 +37,16 @@ https://www.macxin.com/archives/10762.html
 
     ruby generateEntityDiagram.rb ~/workspace/my-swift-project
     3. Open the generated html and enjoy the diagrams of your classes, structures and protocols.
+
+四：
+Clone the git repo:
+
+git clone https://github.com/yoshimkd/swift-code-types-navigator your_local_folder
+
+Build the tool, by running the following command in the tool’s root directory:
+
+swift build
+
+Run the type navigator, by typing the following command, with path/s to your Swift code:
+
+.build/debug/SwiftDiagramGenerator . <swiftFileOrFolderPath1> <swiftFileOrFolderPath2> ...
